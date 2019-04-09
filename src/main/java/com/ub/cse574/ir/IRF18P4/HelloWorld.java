@@ -48,7 +48,7 @@ public class HelloWorld implements SparkApplication {
 	
 	private Map<String,String> getResults(String text) throws SolrServerException, IOException{
 		
-		String urlString = "http://ec2-18-217-135-229.us-east-2.compute.amazonaws.com:8983/solr/IRF18P1";
+		String urlString = " "; //your solr url
 		HttpSolrClient solr = new HttpSolrClient.Builder(urlString).build();
 		solr.setParser(new XMLResponseParser());
 		String originalQuery=text;
@@ -689,7 +689,7 @@ public class HelloWorld implements SparkApplication {
 	}
 	
 	private static String getDetectedQueryLang(String query){
-		DetectLanguage.apiKey = "3b51578bf6ef50c27d09170cf4f48b67";
+		DetectLanguage.apiKey = " "; //your key
 		List<Result> results;
 		try {
 			results = DetectLanguage.detect(query);
