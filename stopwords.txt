@@ -1,0 +1,508 @@
+﻿i
+me
+my
+myself
+we
+our
+ours
+ourselves
+you
+your
+yours
+yourself
+yourselves
+he
+him
+his
+himself
+she
+her
+hers
+herself
+it
+its
+itself
+they
+them
+their
+theirs
+themselves
+what
+which
+who
+whom
+this
+that
+these
+those
+am
+is
+are
+was
+were
+be
+been
+being
+have
+has
+had
+having
+do
+does
+did
+doing
+a
+an
+the
+and
+but
+if
+or
+because
+as
+until
+while
+of
+at
+by
+for
+with
+about
+against
+between
+into
+through
+during
+before
+after
+above
+below
+to
+from
+up
+down
+in
+out
+on
+off
+over
+under
+again
+further
+then
+once
+here
+there
+when
+where
+why
+how
+all
+any
+both
+each
+few
+more
+most
+other
+some
+such
+no
+nor
+not
+only
+own
+same
+so
+than
+too
+very
+s
+t
+can
+will
+just
+don
+should
+now
+मैं
+मुझे
+मेरी
+अपने आप को
+हम
+हमारे
+हमारा
+हम
+आप
+आपके
+तुम्हारा
+स्वयं
+स्वयं
+वह
+उसे
+उसकी
+वह खुद
+वह
+उसके
+उसकी
+स्वयं
+यह
+इसके
+खुद
+वे
+उन
+उनके
+उनकी
+अपने
+क्या
+कौन
+कौन
+जिसे
+यह
+कि
+इन
+उन
+कर रहा हूँ
+है
+कर रहे हैं
+था
+थे
+होना
+गया
+किया जा रहा है
+है
+है
+था
+होने
+करना
+करता है
+किया
+काम
+एक
+एक
+
+और
+लेकिन
+अगर
+या
+क्योंकि
+जैसे
+जब तक
+जब
+की
+पर
+द्वारा
+के लिए
+साथ
+के बारे में
+के खिलाफ
+के बीच
+में
+के माध्यम से
+दौरान
+से पहले
+के बाद
+ऊपर
+नीचे
+को
+से
+ऊपर
+नीचे
+में
+बाहर
+पर
+बंद
+ऊपर
+नीचे
+फिर
+आगे
+तो
+एक बार
+यहां
+वहाँ
+जब
+जहाँ
+क्यों
+कैसे
+सब
+कोई
+दोनों
+प्रत्येक
+कुछ
+अधिक
+सबसे
+अन्य
+कुछ
+ऐसा
+नहीं
+न
+नहीं
+चो सीओ
+अपना
+समान
+तुलना करने के लिए
+से
+बहुत
+बहुत
+रों
+टी
+कर सकते हैं
+होगा
+केवल
+डॉन
+चाहिए
+अब
+je
+moi
+nous
+moi-même
+nous
+notre
+la nôtre
+nous-même
+vous
+votre
+le vôtre
+vous-même
+vous-même
+il
+lui
+son
+il se
+elle
+elle
+elle
+elle-même
+il
+ses
+lui-même
+ils
+eux
+leur
+leur
+eux-mêmes
+quoi
+qui
+qui
+qui
+cette
+cela
+ces
+ceux
+je suis
+est
+sont
+vous
+étaient
+être
+été
+être
+avoir
+a
+avait
+avoir
+à
+fait
+a fait
+fait
+un
+la sécurité
+le
+et
+des chaussures
+si
+ou
+parce que
+comme
+jusqu'à
+pendant que
+de
+à
+à
+pour
+avec
+à propos de
+contre
+entre
+dans
+à travers
+pendant
+avant
+après
+au dessus
+ci-dessous
+à
+de
+en haut
+En bas
+imprimer
+out
+sur
+hors
+sur
+sous
+encore
+plus loin
+clé
+une fois
+ici
+là
+quand
+où
+pourquoi
+comment
+tout
+tout
+les deux
+chacun
+peu de
+plus
+pont
+autre
+certains
+comme
+non
+ni
+pas
+chỉ có
+posséder
+même
+comparer
+charbon
+aussi
+très
+s
+t
+peut
+sera
+juste
+don
+devrait
+maintenant
+yo
+yo
+nosotros
+yo mismo
+nosotros
+nuestro
+nuestro
+nosotros mismos
+usted
+su
+el tuyo
+usted mismo
+ustedes mismos
+el
+él
+su
+el mismo
+ella
+ella
+ella
+ella misma
+es
+es su
+sí mismo
+ellos
+ellos
+sus
+de ellos
+ellos mismos
+que
+cual
+quien
+a quien
+esto
+que
+estos
+esos
+soy
+es
+son
+usted
+eran
+ser
+estado
+siendo
+tener
+tiene
+tenido
+teniendo
+a
+hace
+hizo
+hecho
+un
+seguridad
+los
+y
+zapatos
+si
+o
+porque
+como
+hasta que
+mientras
+de
+en
+a
+para
+con
+acerca de
+contra
+entre
+en
+a través de
+durante
+antes de
+despues
+arriba
+abajo
+a
+de
+arriba
+Abajo
+imprimir
+fuera
+en
+fuera de
+sobre
+bajo
+otra vez
+más lejos
+llave
+una vez
+aqui
+alli
+cuando
+donde
+por que
+como
+todo
+cualquier
+ambos
+cada uno
+pocos
+mas
+puente
+otro
+algunos
+como
+no
+ni
+no
+chỉ có
+propio
+mismo
+para comparar
+carbón
+tambien
+muy
+s
+t
+puede
+voluntad
+solo
+don
+debería
+ahora
